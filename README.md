@@ -19,6 +19,3 @@ It has the following qualities
 
 #### Test End
 comming soon
-comming sooon
-comming soooon
-comming sooooon
