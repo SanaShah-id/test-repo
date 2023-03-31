@@ -1,6 +1,6 @@
 # Test
 
-## _Type in Markdown_
+## _Type in Markdown!_
 
 It has the following qualities
 - Simple
